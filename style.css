@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+body{
+  background-image: url('2.1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+.container{
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+.list {
+  display: flex;
+  list-style-type: none;
+  color:red;
+  padding-left: 5rem;
+  margin-left: 19rem;
+  
+}
+.list-item{
+  padding:2rem;
+  margin-top: -5rem;
+}
+
+  
+nav div button{
+  margin-left:65rem ;
+  background-color: yellow;
+  color: red;
+  padding: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  cursor: pointer;
+  border-style: none;
+  font-size: medium;
+  margin-top: -18rem;
+  
+}
+.hero-heading{
+  color: red;
+  font-size: 7.5rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+}
+
+.button-large{
+  margin-left: 33rem;
+  background-color: yellow;
+  color: red;
+  padding: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  cursor: pointer;
+  border-style: none;
+  font-size: medium;
+  margin-top: 2rem;
+}
+.bottom div img{
+  margin-left: 63rem;
+  margin-top: -12rem;
+}
+
+
